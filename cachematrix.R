@@ -1,7 +1,7 @@
-## This is Programming Assignment 2: Lexical Scoping
-## Caching the Inverse of a Matrix
+## Put comments here that give an overall description of what your
+## functions do
 
-## function creates a special "matrix" that can cache its inverse
+## Write a short comment describing this function
 
 makeCacheMatrix <- function(x = matrix()) {
         s <- NULL
@@ -18,7 +18,7 @@ makeCacheMatrix <- function(x = matrix()) {
 }
 
 
-## This function computes the inverse of the special "matrix"
+## Write a short comment describing this function
 
 cacheSolve <- function(x, ...) {
         s <- x$getsolve()
