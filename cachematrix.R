@@ -1,7 +1,7 @@
 ## This is Programming Assignment 2: Lexical Scoping
 ## Caching the Inverse of a Matrix
 
-## function creates a special "matrix" object that can cache its inverse
+## function creates a special "matrix" that can cache its inverse
 
 makeCacheMatrix <- function(x = matrix()) {
         s <- NULL
